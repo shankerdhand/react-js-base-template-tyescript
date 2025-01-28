@@ -188,6 +188,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## 📫 Contact
 
-Your Name - shankerdhand@gmail.com
-Project Link: [https://github.com/shankerdhand/react-js-base-template-tyescript](https://github.com/shankerdhand/react-js-base-template-tyescript)
-```
+Shanker Dhand - shankerdhand@gmail.com
